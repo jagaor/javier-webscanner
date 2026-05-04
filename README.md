@@ -11,12 +11,14 @@ Dashboard web que orquesta 12 motores de auditoría (nikto, nmap, sqlmap, dirb, 
 
 ---
 
-## Capturas
+## Captura
 
-| Dashboard | Resultados |
-|-----------|------------|
-| ![dashboard](docs/screenshots/dashboard.png) | ![results](docs/screenshots/results.png) |
-
+### Dashboard
+![dashboard](docs/screenshots/dashboard.png)
+<!-- 
+### Resultados
+![results](docs/screenshots/results.png)
+ -->
 ---
 
 ## Características
